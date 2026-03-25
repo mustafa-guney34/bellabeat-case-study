@@ -27,7 +27,7 @@ Bellabeat aims to grow in the smart device market. This analysis explores how us
 - Data Visualization
 
 ## Files
-- [bellabeat-case-study.pdf](bellabeat-case-study.pdf) : Full case study
+- [View Full Case Study (PDF)](Bellabeat-case-study.pdf)
 - `data/`: Raw datasets used
 - `images/`: Visualizations
 
