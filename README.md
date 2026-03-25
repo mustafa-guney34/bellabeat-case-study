@@ -15,10 +15,10 @@ Bellabeat aims to grow in the smart device market. This analysis explores how us
 ## Visualizations
 
 ### Active vs Sedentary Time
-![Active vs Sedentary](images/active_vs_sedentary.png)
+![Active vs Sedentary](images/Active_vs_sedentary.png)
 
 ### Sleep vs Time in Bed
-![Sleep vs Time in Bed](images/sleep_vs_time_in_bed.png)
+![Sleep vs Time in Bed](images/Sleep_vs_time_in_bed.png)
 
 ## Tools Used
 - Google Sheets
